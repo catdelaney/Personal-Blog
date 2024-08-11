@@ -1,8 +1,18 @@
 # Personal Blog
 
 ## Description
+This is a two-page personal blog site. This application features a landing page where users can input their blog posts. Upon submission, the blog post data is stored in localStorage, and users are then redirected to the posts page. Blog posts are dynamically rendered from localStorage, displaying the title, content, and author of each post. The footer provides a link to the developer's portfolio. Finally there are light/dark mode themes on each page for a user-friendly experience.
 
 ## Screenshots
+Landing Page
+
+![Landing Page](./assets/images/landing%20page.png)
+Blog Posts Page
+
+![Blog Posts Page](./assets/images/blog%20posts%20page.png)
+Blog Posts Page - Dark
+
+![Blog Posts Page - Dark](./assets/images/blog%20posts%20page%20-%20dark.png)
 
 ## User Story
 AS A marketing student
@@ -35,3 +45,6 @@ WHEN I view the footer,
 THEN I am presented with a link to the developer's portfolio.
 
 ## Links
+Deployed Link: https://catdelaney.github.io/Personal-Blog/
+
+GitHub Repo: https://github.com/catdelaney/Personal-Blog
