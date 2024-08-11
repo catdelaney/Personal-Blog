@@ -11,6 +11,6 @@ document.getElementById('blogForm').addEventListener('submit', function(event) {
     } else {
         document.getElementById('message').innerText = 'Please complete all fields.';
     }
-});
+});   
 
 initializeDarkMode();

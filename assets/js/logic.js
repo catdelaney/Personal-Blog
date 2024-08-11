@@ -24,3 +24,5 @@ function initializeDarkMode() {
         document.querySelector('footer').classList.add('dark-mode');
     }
 }
+
+document.getElementById('toggleMode').addEventListener('click', toggleDarkMode);
